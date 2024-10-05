@@ -1,0 +1,16 @@
+body {
+  background: cornflowerblue;
+}
+/* ----------- For screens 768px - tablet- and larger ----------- */
+@media () (min-width: 768px){
+	body {
+  background: #a3a3a3;
+  }
+}
+
+/* ----------- For screens 1200px- desktop- wide and larger----------- */
+@media () (min-width: 1200px){
+  body{ 
+background: #854B55; 
+}
+}
